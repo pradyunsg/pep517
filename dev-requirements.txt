@@ -1,8 +1,0 @@
-pytest
-pytest-flake8
-flake8 < 4  # https://github.com/tholo/pytest-flake8/issues/81
-testpath
-tomli
-setuptools>=30
-importlib_metadata ; python_version<'3.8'
-zipp ; python_version<'3.8'
